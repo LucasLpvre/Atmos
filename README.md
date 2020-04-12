@@ -8,6 +8,7 @@ Atmos, est un jeu web crée en Phazer3, avec un client web en Angular et un serv
 
 ## Login page
 ![alt text](https://drive.google.com/file/d/1LgDO-_qgDD-UPgncClde5rscX5BArmWx/view?usp=sharing "Login Page")
+![Login Page](https://drive.google.com/file/d/1LgDO-_qgDD-UPgncClde5rscX5BArmWx/view?usp=sharing)
 
 ## Register page
 ![alt text](https://drive.google.com/file/d/1A6l-PeDe0AONrdBe2ayTUDFrbe6yk59i/view?usp=sharing "Register Page")
